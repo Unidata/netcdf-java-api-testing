@@ -1,4 +1,4 @@
-Moved to main netcdf-java repository wiki, as new public api was released in version 5.4.0.
+Moved to main [netcdf-java repository wiki](https://github.com/Unidata/netcdf-java/wiki), as new public api was released in version 5.4.0.
 
 netCDF-java New Public API Testing
 
