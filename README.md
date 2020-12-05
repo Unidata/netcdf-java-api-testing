@@ -1,4 +1,6 @@
-# netCDF-java New Public API Testing
+Moved to main netcdf-java repository wiki, as new public api was released in version 5.4.0.
+
+netCDF-java New Public API Testing
 
 Short-term repository related to testing and feedback on the new netCDF-Java public API.
 The focus here is on discussions through the use of the [repo Issues](https://github.com/lesserwhirls/netcdf-java-api-testing/issues), and [guidelines/documentation on the repo wiki](https://github.com/lesserwhirls/netcdf-java-api-testing/wiki).
